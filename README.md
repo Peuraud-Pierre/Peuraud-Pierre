@@ -50,11 +50,10 @@ I explore different languages and technologies to strengthen my skills and build
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Peuraud-Pierre&show_icons=true&include_all_commits=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&ring_color=ffffff&border_color=444444" alt="Pierre's GitHub stats" />
-<img height="180" src="https://streak-stats.demolab.com?user=Peuraud-Pierre&background=000000&border=444444&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=aaaaaa" alt="GitHub streak" />
+<img height="270" src="assets/combined-stats.svg" alt="Combined GitHub + GitLab stats" />
 
 <br/><br/>
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Peuraud-Pierre&theme=github_dark" alt="Contribution graph" />
+<img width="100%" src="assets/combined-graph.svg" alt="Combined contribution graph" />
 
 </div>
