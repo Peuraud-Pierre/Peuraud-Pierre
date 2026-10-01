@@ -5,7 +5,7 @@
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Peuraud-Pierre)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](portfolio-one-umber-51.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio-one-umber-51.vercel.app)
 
 <!-- Ajoute tes liens ici, ex. :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TON-PROFIL)
@@ -17,13 +17,13 @@
 
 <img src="assets/astronaut.svg" alt="astronaut" width="220" align="right" />
 
-Hello there! I'm **Pierre Peuraud**, an apprentice developer in training based in **France** 🇫🇷.
+Hello there! I'm **Pierre Peuraud**, an apprentice developer based in **France** 🇫🇷.
 I explore different languages and technologies to strengthen my skills and build increasingly interesting projects — from low-level systems in **C** and **Rust** to web apps with **TypeScript** and **Vue**.
 
 <div align="center">
 
-🎓 **Apprentice developer**<br/>
-🦀 **Currently learning Rust**<br/>
+🎓 **Young developer**<br/>
+🖥️ **Currently learning server-side development**<br/>
 🌐 **Building web apps with Vue & TypeScript**<br/>
 💻 **Always looking for new projects**
 
