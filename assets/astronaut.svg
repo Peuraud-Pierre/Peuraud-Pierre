@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300">
+  <style>
+    .float { animation: float 6s ease-in-out infinite; transform-origin: 150px 150px; }
+    @keyframes float {
+      0%   { transform: translate(0, 0) rotate(-12deg); }
+      50%  { transform: translate(6px, -14px) rotate(8deg); }
+      100% { transform: translate(0, 0) rotate(-12deg); }
+    }
+    .tw { animation: tw 3s ease-in-out infinite; }
+    .tw2 { animation: tw 4.5s ease-in-out infinite 1s; }
+    @keyframes tw { 0%,100% { opacity: 1; } 50% { opacity: 0.2; } }
+  </style>
+  <rect width="300" height="300" fill="#000"/>
+  <g fill="#fff">
+    <circle cx="30" cy="40" r="1.2" class="tw"/><circle cx="80" cy="250" r="1" class="tw2"/>
+    <circle cx="260" cy="60" r="1.4" class="tw2"/><circle cx="220" cy="230" r="1" class="tw"/>
+    <circle cx="140" cy="30" r="0.8" class="tw"/><circle cx="270" cy="160" r="1" class="tw"/>
+    <circle cx="20" cy="170" r="1" class="tw2"/><circle cx="110" cy="280" r="0.8" class="tw"/>
+    <circle cx="190" cy="100" r="0.7" class="tw2"/><circle cx="60" cy="110" r="0.7" class="tw"/>
+  </g>
+  <g class="float">
+    <!-- tether -->
+    <path d="M170 170 C210 200 240 190 300 230" stroke="#bbb" stroke-width="1.5" fill="none"/>
+    <!-- backpack -->
+    <rect x="128" y="128" width="44" height="50" rx="8" fill="#cfcfcf"/>
+    <!-- body -->
+    <rect x="133" y="135" width="36" height="44" rx="12" fill="#fff"/>
+    <!-- arms -->
+    <rect x="114" y="140" width="22" height="11" rx="5.5" fill="#fff" transform="rotate(-30 125 145)"/>
+    <rect x="166" y="146" width="22" height="11" rx="5.5" fill="#fff" transform="rotate(25 177 151)"/>
+    <!-- legs -->
+    <rect x="136" y="172" width="12" height="24" rx="6" fill="#fff" transform="rotate(10 142 184)"/>
+    <rect x="154" y="172" width="12" height="24" rx="6" fill="#fff" transform="rotate(-8 160 184)"/>
+    <!-- helmet -->
+    <circle cx="151" cy="122" r="19" fill="#fff"/>
+    <ellipse cx="154" cy="122" rx="12" ry="9" fill="#1b1b1b"/>
+    <ellipse cx="158" cy="118" rx="3.5" ry="2" fill="#666"/>
+    <!-- chest panel -->
+    <rect x="143" y="150" width="16" height="8" rx="2" fill="#bbb"/>
+  </g>
+</svg>

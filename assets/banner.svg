@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#d9d9d9"/>
+      <stop offset="0.55" stop-color="#9a9a9a"/>
+      <stop offset="1" stop-color="#3a3a3a"/>
+    </linearGradient>
+    <linearGradient id="dune1" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#4a4a4a"/>
+      <stop offset="1" stop-color="#1a1a1a"/>
+    </linearGradient>
+    <linearGradient id="dune2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2b2b2b"/>
+      <stop offset="1" stop-color="#0a0a0a"/>
+    </linearGradient>
+    <linearGradient id="road" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#bdbdbd" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#f5f5f5"/>
+    </linearGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="1.2"/></filter>
+  </defs>
+
+  <rect width="1200" height="400" fill="url(#sky)"/>
+
+  <!-- distant hills -->
+  <path d="M0 250 C150 215 300 235 450 220 C620 202 760 240 900 222 C1030 206 1120 228 1200 220 L1200 400 L0 400 Z"
+        fill="#6b6b6b" opacity="0.7" filter="url(#blur)"/>
+  <!-- mid dunes -->
+  <path d="M0 285 C180 250 340 300 520 268 C700 236 860 300 1040 262 C1110 248 1160 256 1200 262 L1200 400 L0 400 Z"
+        fill="url(#dune1)"/>
+  <!-- winding road -->
+  <path d="M640 262 C600 280 560 292 600 312 C650 336 760 340 700 365 C650 386 540 392 470 400 L560 400
+           C640 394 760 386 790 362 C830 330 690 322 650 306 C620 294 640 278 650 262 Z"
+        fill="url(#road)"/>
+  <!-- front dunes -->
+  <path d="M0 340 C140 318 280 352 430 336 C470 332 500 345 470 400 L0 400 Z" fill="url(#dune2)"/>
+  <path d="M820 400 C800 360 880 338 1000 340 C1100 342 1160 326 1200 330 L1200 400 Z" fill="url(#dune2)"/>
+
+  <text x="600" y="120" text-anchor="middle" fill="#111"
+        font-family="'Courier New', Courier, monospace" font-size="40" letter-spacing="1">Welcome to Pierre's GitHub</text>
+  <text x="600" y="168" text-anchor="middle" fill="#111"
+        font-family="'Courier New', Courier, monospace" font-size="30">&lt;/&gt;</text>
+</svg>
