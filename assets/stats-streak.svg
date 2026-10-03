@@ -6,7 +6,7 @@
   <line x1="165" y1="28" x2="165" y2="167" stroke="#fff"/>
   <line x1="330" y1="28" x2="330" y2="167" stroke="#fff"/>
   <circle cx="247.5" cy="75" r="33" fill="none" stroke="#fff" stroke-width="5"/>
-  <text x="247.5" y="85" fill="#fff" font-size="28" font-weight="700" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif">2</text>
+  <text x="247.5" y="85" fill="#fff" font-size="28" font-weight="700" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif">0</text>
   <text x="247.5" y="130" fill="#fff" font-size="14" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif">Current Streak</text>
   <text x="247.5" y="150" fill="#aaa" font-size="11" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif">days</text>
   <text x="412.5" y="95" fill="#fff" font-size="28" font-weight="700" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif">4</text>
