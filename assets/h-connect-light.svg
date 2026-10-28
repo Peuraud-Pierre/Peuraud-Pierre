@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="52" viewBox="0 0 900 52">
+  <image width="900" height="52" style="image-rendering:pixelated" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABwgAAABoCAMAAADSHlRgAAAALVBMVEX///8RERFrZIDx7PrPzdZ9eogRERHcz/2be+hbIbb18vvi3O/Es/Cbe+htKNmF59hCAAADTklEQVR42u3WwVaDMBBA0bpV6f9/rtscjnOYdIBC596dNg1JBJ6Px+AbABp4/MexANA4hg4EgM4pdBoAdC6hswCgcwmdBACdS+gcAGhdQscAQOcQOgUAWpfQIQAghAAghADQL4TOAIDWJXQEAAghAAghAAghAAjhlq9AdXx2nur4LdX1z84PgBAKIQBCKIQACKEQAiCEQgiAEAohAEIohAAIoRACIIRCCIAQCiEA7wvh2aE6avxR+539HAAhFEIAhFAIARBCIQRACIUQACEUQgCEUAgBEEIhBEAIhRAAIRRCAK4fwr3DefTPe+9XCAGEUAiFEEAIhVAIAYRQCFuF8Hdw5nV/BtF6ojF7Xbcyf/Td8ffLIHP+0ZzRPJn5K3uJrhWdYTSmsobKHmfXEK0/s4bn4Ih7eFzDOP8zULk/l8Ds/RCtZ0kQQiEUQiEUQiEUQiEUQiEUQiEUQiEUQiEUQiEUQiEUQiEUQiEUQiEUQiEUQiEUQiEUQiEUQiEUQiEUQiEUQiG8SQjXv99rfEQIhVAIhVAIhVAIhVAIhVAIhVAIhVAIhVAIhVAIhVAIhVAIhVAIhVAIhVAIhVAIhVAIhVAILx7C8eaIHp7ZUGXGZx7OSiAz6888qLNzdviHI5pnNkKzL53Ky3387ux19wrtXuGJ1p/5+0ZjorBl9p4JWxTpaEzmWcu8r6Jzi2IphEIohEIohEIohEIohEIohEIohEIohEIohEIohEIohEIohEIohEIohEL4ESE8a7wQCqEQCqEQCqEQCqEQCqEQCqEQCqEQCqEQCqEQCqEQCqEQCqEQCqEQCqEQCqEQCqEQCqEQCqEQCqEQCqEQCqEQCqEQCqEQCqEQXjKEALxOCIUQQAiFUAgBhPADw3Z0CKufAyCEQgiAEAohAEIohAAIoRACIIRCCIAQCiEAQiiEAAihEAIghEIIwPtDuH7Br1XHnxXCLdX9CiGAEAqhEAIIoRAKIYAQCqEQAgihEAIghEIIgBAKIQBCKIQACKEQAiCEQgjA/UIIAEIIAEIIAEIIAEIIALcMoRIC0LqDQgiAEAKAEAJAxxAqIQCtOyiEAPQOoRIC0LqDSghA7w4qIQC9O6iEAPTuoBQC0DuDYghAzwj+AYWY0Ua9WDkFAAAAAElFTkSuQmCC"/>
+  <style>
+    .tw { animation: tw ease-in-out infinite; opacity: 0.15; }
+    @keyframes tw { 0%, 100% { opacity: 0.1; } 50% { opacity: 1; } }
+  </style>
+  <path class="tw" style="animation-duration:3.24s;animation-delay:-2.92s" fill="#7c3aed" d="M310 13h2v2h2v2h-2v2h-2v-2h-2v-2h2z"/>
+  <path class="tw" style="animation-duration:2.08s;animation-delay:-3.49s" fill="#111111" d="M799.5 10.5h3v3h3v3h-3v3h-3v-3h-3v-3h3z"/>
+  <path class="tw" style="animation-duration:4.66s;animation-delay:-3.72s" fill="#7c3aed" d="M443 9h2v2h2v2h-2v2h-2v-2h-2v-2h2z"/>
+  <path class="tw" style="animation-duration:3.60s;animation-delay:-2.21s" fill="#7c3aed" d="M574 20h2v2h2v2h-2v2h-2v-2h-2v-2h2z"/>
+  <path class="tw" style="animation-duration:3.80s;animation-delay:-3.61s" fill="#7c3aed" d="M593 19h2v2h2v2h-2v2h-2v-2h-2v-2h2z"/>
+</svg>

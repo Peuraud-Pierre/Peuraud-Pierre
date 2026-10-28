@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="52" viewBox="0 0 900 52">
+  <image width="900" height="52" style="image-rendering:pixelated" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABwgAAABoCAMAAADSHlRgAAAALVBMVEX///8RERFrZIDx7PrPzdZ9eogRERHcz/2be+hbIbb18vvi3O/Es/Cbe+htKNmF59hCAAADdElEQVR42u3cSY7CMBBA0bBthvsfl62F2ko5HkKo95a02zgl5M+KbSv8AUAC23+MBYDEMTQQADKn0DQAyFxCswAgcwlNAoDMJTQHAFKX0BgAyBxCUwAgdQkNAQAhBAAhBIB8ITQDAFKX0AgAEEIAEEIAEEIAEMI9tx3RdZ/r9/6v9Ryzz9O7/+z5tJ4fQAiFUAgBhFAIhRBACIVQCAGEUAiFEEAIhVAIAYRQCIUQQAiFUAgBhFAIhRBACIVQCAEyhrD34oxe2LP+Pnu/s89TC62POYAQCiEAQiiEAAihEAIghEIIgBAKIQBCKIQAQiiEQggghEIohABCKIRCCCCEQnjVEI4+P4AQCqEQAgihEAohgBAKoRCe6l6ovV5bU3oUWt9rlMgZZs8qss+z0POMM963tmdttq2vt56z3Cdy/tb1tWd/FVo/b7V9ytcfAbU51ETO0LN/ZCZCKIRCKIRCKIRCKIRCKIRCKIRCKIRCKIRCKIRCKIRCKIRCKIRCKIRCKIRCKIRCKIRCKIRCKIRCKIRCKIRCKISNF+ynURf9ntWhmPW8q8J89PxCKIRCKIRCKIRCKIRCKIRCKIRCKIRCKIRCKIRCKIRCKIRCKIRCKIRCKIRCKIRCKIRCKIRCuCgMoy70s4L0DeGsXbK1y27Ul4PI+nJN5Jyt8+mZW+uFHglb5DyR9+r5slKuvweUUXlWRPZ/BYz63yNf4IRQCIVQCIVQCIVQCIVQCIVQCIVQCIVQCIVQCIVQCIVQCIVQCIVQCIVQCA87+yfUVv8E2dV+8m32fkIohEIohEIohEIohEIohEIohEIohEIohEIohEIohEIohEIohEIohEIohEIohEIohEIohEIohEIohEIohEIohEIohEIohEIohEII8HWEUAiFEBBCIRRCACEUwsuHcPXzAwihEAohgBAKoRACCKEQCiGAEAqhEAIIoRAKIYAQCqEQAgihEAohgBAKoRACCKEQCiHAL4TwtuMqoYw+x6rnbX2f3nUCCCCEQiiEAEIohAAIoRACCKEQCiGAEAqhEAIIoRAKIYAQCqEQAgihEAohgBAKoRACCCEACCEACCEACCEACCEA/EgIlRCA1B0UQgCEEACEEAAyhlAJAUjdQSEEIHcIlRCA1B1UQgByd1AJAcjdQSUEIHcHpRCA3BkUQwByRvANzXVsltUt6aQAAAAASUVORK5CYII="/>
+  <style>
+    .tw { animation: tw ease-in-out infinite; opacity: 0.15; }
+    @keyframes tw { 0%, 100% { opacity: 0.1; } 50% { opacity: 1; } }
+  </style>
+  <path class="tw" style="animation-duration:3.02s;animation-delay:-3.40s" fill="#111111" d="M871 13h2v2h2v2h-2v2h-2v-2h-2v-2h2z"/>
+  <path class="tw" style="animation-duration:4.93s;animation-delay:-0.12s" fill="#111111" d="M571 18h2v2h2v2h-2v2h-2v-2h-2v-2h2z"/>
+  <path class="tw" style="animation-duration:2.97s;animation-delay:-1.81s" fill="#7c3aed" d="M338 33h2v2h2v2h-2v2h-2v-2h-2v-2h2z"/>
+  <path class="tw" style="animation-duration:1.85s;animation-delay:-3.29s" fill="#111111" d="M621 30h2v2h2v2h-2v2h-2v-2h-2v-2h2z"/>
+  <path class="tw" style="animation-duration:4.28s;animation-delay:-3.45s" fill="#7c3aed" d="M752 10h2v2h2v2h-2v2h-2v-2h-2v-2h2z"/>
+</svg>

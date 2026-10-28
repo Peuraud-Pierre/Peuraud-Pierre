@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="52" viewBox="0 0 900 52">
+  <image width="900" height="52" style="image-rendering:pixelated" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABwgAAABoCAMAAADSHlRgAAAALVBMVEX///8RERFrZIDx7PrPzdZ9eogRERHcz/2be+hbIbb18vvi3O/Es/Cbe+htKNmF59hCAAADS0lEQVR42u3WwVKDMBSG0bLV2vd/3G5cZDreaQKBgv85O7Gm5CJ83G6NLwAIcPuLsQAQHEMDASA5haYBQHIJzQKA5BKaBADJJTQHAKJLaAwAJIfQFACILqEhACCEACCEAJAXQjMAILqERgCAEAKAEAKAEAKAEFaWX72/H/386/FXWze7dNrre7bOEwAhFEIAhFAIARBCIQRACIUQACEUQgCEUAgBEEIhBEAIhRAAIRRCAK4XwqPDcPR61X57jwMghEIIgBAKIQBCKIQACKEQAiCEQgiAEAohAEIohAAIoRACIIRCCIAQXiWEa+cBgBAKIQBCKIQACKEQbvbdofrbe6Pn+B7nfLabqzq30XOuZvhT+NQeR6/16BxG59keb+ez5X/y0Zg183bN6vpW92O1l3bNaj73QaP3e6XnevXst+e4EAqhEAqhEAqhEAqhEAqhEAqhEAqhEAqhEAqhEAqhEAqhEAqhEAqhEAqhEAqhEAqhEAqhEAqhEAqhEAqhEArhpBD2/vzOfwvh2v0KoRAKoRAKoRAKoRAKoRAKoRAKoRAKoRAKoRAKoRAKoRAKoRAKoRAKoRAKoRAKoRAKoRAK4Qce1rNUN8ysh+DZIrf3DM8c/r1j37NO9fkqKj3h3BLX6mXlURhdpzqHao9HzrMKfBW56iWjmlu7360vOkIohEIohEIohEIohEIohEIohEIohEIohEIohEIohEIohEIohEIohEIohNNDuHa9q4bwrPsVQiEUQiEUQiEUQiEUQiEUQiEUQiEUQiEUQiEUQiEUQiEUQiEUQiEUQiEUQiEUQiEUQiEUQiEUQiEUQiEUQiEUQiEUQiEUQiEMDCFAOiEUQgAhFEIhBBBCIRRCACEUQiEEEEIhFEIAIRRCIQQQQiEUQgAhFEIhBBBCIRRCACEUQiEEEEIhFEIAIRRCIQQIDOHoA33tg34pzArVO0IIIIRCKIQAQiiEQggghEIohABCKIRCCCCEQiiEAEIohEIIIIRCKIQAQiiEQggghEIohAB5IQQAIQQAIQQAIQQAIQSAS4ZQCQGI7qAQAiCEACCEAJAYQiUEILqDQghAdgiVEIDoDiohANkdVEIAsjuohABkd1AKAcjOoBgCkBnBJyBo0dZmnzu+AAAAAElFTkSuQmCC"/>
+  <style>
+    .tw { animation: tw ease-in-out infinite; opacity: 0.15; }
+    @keyframes tw { 0%, 100% { opacity: 0.1; } 50% { opacity: 1; } }
+  </style>
+  <path class="tw" style="animation-duration:4.36s;animation-delay:-1.57s" fill="#7c3aed" d="M394 17h2v2h2v2h-2v2h-2v-2h-2v-2h2z"/>
+  <path class="tw" style="animation-duration:3.13s;animation-delay:-3.71s" fill="#7c3aed" d="M582.5 22.5h3v3h3v3h-3v3h-3v-3h-3v-3h3z"/>
+  <path class="tw" style="animation-duration:3.04s;animation-delay:-1.84s" fill="#7c3aed" d="M688 36h2v2h2v2h-2v2h-2v-2h-2v-2h2z"/>
+  <path class="tw" style="animation-duration:2.98s;animation-delay:-2.51s" fill="#7c3aed" d="M280.5 14.5h3v3h3v3h-3v3h-3v-3h-3v-3h3z"/>
+  <path class="tw" style="animation-duration:3.94s;animation-delay:-1.34s" fill="#7c3aed" d="M401 9h2v2h2v2h-2v2h-2v-2h-2v-2h2z"/>
+</svg>
