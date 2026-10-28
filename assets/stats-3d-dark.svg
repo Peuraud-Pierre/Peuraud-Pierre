@@ -380,14 +380,14 @@
   <polygon points="700.5,421.3 708.1,425.6 708.1,332.6 700.5,328.3" fill="rgb(134,126,158)"/><polygon points="715.7,421.2 708.1,425.6 708.1,332.6 715.7,328.2" fill="rgb(173,163,204)"/><polygon points="708.1,323.9 715.7,328.2 708.1,332.6 700.5,328.3" fill="rgb(216,204,255)"/>
   <polygon points="688.2,416.9 695.8,421.2 688.2,425.6 680.6,421.3" fill="#1a1722"/>
   <polygon points="668.3,416.9 675.8,421.2 668.3,425.6 660.7,421.3" fill="#1a1722"/>
-  <polygon points="730.4,427.0 738.0,431.4 738.0,417.5 730.4,413.1" fill="rgb(54,48,76)"/><polygon points="745.6,427.0 738.0,431.4 738.0,417.5 745.6,413.1" fill="rgb(70,62,99)"/><polygon points="738.0,408.7 745.6,413.1 738.0,417.5 730.4,413.1" fill="rgb(88,77,123)"/>
+  <polygon points="730.4,427.0 738.0,431.4 738.0,415.0 730.4,410.6" fill="rgb(57,50,79)"/><polygon points="745.6,427.0 738.0,431.4 738.0,415.0 745.6,410.6" fill="rgb(73,65,102)"/><polygon points="738.0,406.3 745.6,410.6 738.0,415.0 730.4,410.6" fill="rgb(92,81,127)"/>
   <polygon points="710.5,427.0 718.1,431.4 718.1,417.5 710.5,413.1" fill="rgb(54,48,76)"/><polygon points="725.6,427.0 718.1,431.4 718.1,417.5 725.6,413.1" fill="rgb(70,62,99)"/><polygon points="718.1,408.7 725.6,413.1 718.1,417.5 710.5,413.1" fill="rgb(88,77,123)"/>
   <polygon points="690.6,427.0 698.2,431.4 698.2,387.5 690.6,383.2" fill="rgb(84,78,107)"/><polygon points="705.7,427.0 698.2,431.4 698.2,387.5 705.7,383.2" fill="rgb(109,100,138)"/><polygon points="698.2,378.8 705.7,383.2 698.2,387.5 690.6,383.2" fill="rgb(136,125,173)"/>
   <polygon points="678.2,422.6 685.8,427.0 678.2,431.4 670.7,427.0" fill="#1a1722"/>
   <polygon points="700.5,432.8 708.1,437.1 708.1,383.5 700.5,379.1" fill="rgb(94,87,117)"/><polygon points="715.7,432.7 708.1,437.1 708.1,383.5 715.7,379.1" fill="rgb(122,113,151)"/><polygon points="708.1,374.8 715.7,379.1 708.1,383.5 700.5,379.1" fill="rgb(152,141,189)"/>
   <polygon points="688.2,428.4 695.8,432.7 688.2,437.1 680.6,432.8" fill="#1a1722"/>
   <polygon points="698.2,434.1 705.7,438.5 698.2,442.9 690.6,438.5" fill="#1a1722"/>
-  <text x="30" y="412" fill="#ffffff" font-size="30" font-weight="700" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif">980</text>
+  <text x="30" y="412" fill="#ffffff" font-size="30" font-weight="700" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif">981</text>
   <text x="30" y="432" fill="#a59fbd" font-size="12" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif">contributions in the last year</text>
   <text x="30" y="450" fill="#a59fbd" font-size="11" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif">best day: 2026-10-15 · 136</text>
 </svg>
