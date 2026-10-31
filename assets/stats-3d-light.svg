@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="470" viewBox="0 0 900 470">
   <rect x="0.5" y="0.5" width="899" height="469" rx="4.5" fill="#ffffff" stroke="#ddd3f3"/>
-  <text x="876" y="30" fill="#6b6480" font-size="11" text-anchor="end" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif">2025-10-26 / 2026-10-30</text>
+  <text x="876" y="30" fill="#6b6480" font-size="11" text-anchor="end" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif">2025-10-26 / 2026-10-31</text>
   <style>
     .tw { animation: tw ease-in-out infinite; opacity: 0.15; }
     @keyframes tw { 0%, 100% { opacity: 0.1; } 50% { opacity: 1; } }
@@ -389,6 +389,7 @@
   <polygon points="688.2,428.4 695.8,432.7 688.2,437.1 680.6,432.8" fill="#ece9f3"/>
   <polygon points="718.1,434.1 725.6,438.5 718.1,442.9 710.5,438.5" fill="#ece9f3"/>
   <polygon points="698.2,434.1 705.7,438.5 698.2,442.9 690.6,438.5" fill="#ece9f3"/>
+  <polygon points="708.1,439.9 715.7,444.2 708.1,448.6 700.5,444.3" fill="#ece9f3"/>
   <text x="30" y="412" fill="#111111" font-size="30" font-weight="700" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif">981</text>
   <text x="30" y="432" fill="#6b6480" font-size="12" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif">contributions in the last year</text>
   <text x="30" y="450" fill="#6b6480" font-size="11" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif">best day: 2026-10-15 · 136</text>
