@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="470" viewBox="0 0 900 470">
   <rect x="0.5" y="0.5" width="899" height="469" rx="4.5" fill="#ffffff" stroke="#ddd3f3"/>
-  <text x="876" y="30" fill="#6b6480" font-size="11" text-anchor="end" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif">2025-11-02 / 2026-11-03</text>
+  <text x="876" y="30" fill="#6b6480" font-size="11" text-anchor="end" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif">2025-11-02 / 2026-11-04</text>
   <style>
     .tw { animation: tw ease-in-out infinite; opacity: 0.15; }
     @keyframes tw { 0%, 100% { opacity: 0.1; } 50% { opacity: 1; } }
@@ -380,6 +380,7 @@
   <polygon points="700.5,421.3 708.1,425.6 708.1,411.7 700.5,407.3" fill="rgb(125,114,148)"/><polygon points="715.7,421.2 708.1,425.6 708.1,411.7 715.7,407.3" fill="rgb(161,147,191)"/><polygon points="708.1,403.0 715.7,407.3 708.1,411.7 700.5,407.3" fill="rgb(201,184,239)"/>
   <polygon points="680.6,421.3 688.2,425.6 688.2,381.8 680.6,377.4" fill="rgb(103,80,143)"/><polygon points="695.8,421.2 688.2,425.6 688.2,381.8 695.8,377.4" fill="rgb(133,104,185)"/><polygon points="688.2,373.0 695.8,377.4 688.2,381.8 680.6,377.4" fill="rgb(166,130,231)"/>
   <polygon points="668.3,416.9 675.8,421.2 668.3,425.6 660.7,421.3" fill="#ece9f3"/>
+  <polygon points="738.0,422.6 745.6,427.0 738.0,431.4 730.4,427.0" fill="#ece9f3"/>
   <polygon points="718.1,422.6 725.6,427.0 718.1,431.4 710.5,427.0" fill="#ece9f3"/>
   <polygon points="690.6,427.0 698.2,431.4 698.2,377.8 690.6,373.4" fill="rgb(96,69,141)"/><polygon points="705.7,427.0 698.2,431.4 698.2,377.8 705.7,373.4" fill="rgb(124,89,182)"/><polygon points="698.2,369.0 705.7,373.4 698.2,377.8 690.6,373.4" fill="rgb(155,112,228)"/>
   <polygon points="678.2,422.6 685.8,427.0 678.2,431.4 670.7,427.0" fill="#ece9f3"/>
